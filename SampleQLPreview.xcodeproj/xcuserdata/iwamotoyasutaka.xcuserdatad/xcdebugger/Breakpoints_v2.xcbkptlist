@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D367A5DA-3257-4E6F-877F-856EC2058857"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1032BBD5-CA99-4771-A233-A8C8A42EB951"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SampleQLPreview/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "previewControllerDidDismiss(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1032BBD5-CA99-4771-A233-A8C8A42EB951 - 9f7e6bdea072b5b0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SampleQLPreview.ViewController.previewControllerDidDismiss(__C.QLPreviewController) -&gt; ()"
+                  moduleName = "SampleQLPreview"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iwamotoyasutaka/ios/SampleQLPreview/SampleQLPreview/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "1032BBD5-CA99-4771-A233-A8C8A42EB951 - 9f7e6bdea072b47e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SampleQLPreview.ViewController.previewControllerDidDismiss(__C.QLPreviewController) -&gt; ()"
+                  moduleName = "SampleQLPreview"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iwamotoyasutaka/ios/SampleQLPreview/SampleQLPreview/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "1032BBD5-CA99-4771-A233-A8C8A42EB951 - 9f7e6bdea072b45d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SampleQLPreview.ViewController.previewControllerDidDismiss(__C.QLPreviewController) -&gt; ()"
+                  moduleName = "SampleQLPreview"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iwamotoyasutaka/ios/SampleQLPreview/SampleQLPreview/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5EA06A89-2A45-4702-B69C-E86A818AB31A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SampleQLPreview/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "previewControllerWillDismiss(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E552DD03-A89B-45E0-94DF-7B13B19240FB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SampleQLPreview/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "previewControllerWillDismiss(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E552DD03-A89B-45E0-94DF-7B13B19240FB - 4b0b222d7540c77a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SampleQLPreview.ViewController.previewControllerWillDismiss(__C.QLPreviewController) -&gt; ()"
+                  moduleName = "SampleQLPreview"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iwamotoyasutaka/ios/SampleQLPreview/SampleQLPreview/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "188">
+               </Location>
+               <Location
+                  uuid = "E552DD03-A89B-45E0-94DF-7B13B19240FB - 4b0b222d7540c77a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SampleQLPreview.ViewController.previewControllerWillDismiss(__C.QLPreviewController) -&gt; ()"
+                  moduleName = "SampleQLPreview"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iwamotoyasutaka/ios/SampleQLPreview/SampleQLPreview/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B9E0CD9E-B944-4A50-99A2-443CA42A38E3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SampleQLPreview/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "tappedButton(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B9E0CD9E-B944-4A50-99A2-443CA42A38E3 - 55c906d5f3fdc46a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SampleQLPreview.ViewController.tappedButton(Any) -&gt; ()"
+                  moduleName = "SampleQLPreview"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iwamotoyasutaka/ios/SampleQLPreview/SampleQLPreview/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "252">
+               </Location>
+               <Location
+                  uuid = "B9E0CD9E-B944-4A50-99A2-443CA42A38E3 - 55c906d5f3fdc46a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SampleQLPreview.ViewController.tappedButton(Any) -&gt; ()"
+                  moduleName = "SampleQLPreview"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iwamotoyasutaka/ios/SampleQLPreview/SampleQLPreview/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "248">
+               </Location>
+               <Location
+                  uuid = "B9E0CD9E-B944-4A50-99A2-443CA42A38E3 - 55c906d5f3fdc42c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SampleQLPreview.ViewController.tappedButton(Any) -&gt; ()"
+                  moduleName = "SampleQLPreview"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iwamotoyasutaka/ios/SampleQLPreview/SampleQLPreview/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "116">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4D487A10-A071-4D46-9D37-46F5355267C0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SampleQLPreview/QuickViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4D487A10-A071-4D46-9D37-46F5355267C0 - 701c8f388b440eef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SampleQLPreview.QuickViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "SampleQLPreview"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iwamotoyasutaka/ios/SampleQLPreview/SampleQLPreview/QuickViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "4D487A10-A071-4D46-9D37-46F5355267C0 - 701c8f388b440eef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SampleQLPreview.QuickViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "SampleQLPreview"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iwamotoyasutaka/ios/SampleQLPreview/SampleQLPreview/QuickViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "76">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C950B506-C499-4D3D-8FD7-8D8572693FDE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SampleQLPreview/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "tappedButton(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A5999644-CA3B-4672-9339-E7805B5CF53F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SampleQLPreview/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "tappedButton(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "25AB07B9-89AC-4D97-8448-D8D12EE6D920"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SampleQLPreview/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "10F14DE6-5C17-4D12-866A-6A026E5522E5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SampleQLPreview/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "previewController(_:editingModeFor:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
